@@ -8,7 +8,7 @@ Reconstruir los módulos de Node
 npm install
 ```
 
-Resconstruit el build
+Resconstruir el build
 ```
 npm run build
 ```
